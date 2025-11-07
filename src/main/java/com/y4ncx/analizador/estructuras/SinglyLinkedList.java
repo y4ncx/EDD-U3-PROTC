@@ -1,4 +1,4 @@
-package com.y4cnx.analizador.estructuras;
+package com.y4ncx.analizador.estructuras;
 
 public class SinglyLinkedList<T> {
     private Node<T> head;

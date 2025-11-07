@@ -1,4 +1,4 @@
-package com.y4cnx.analizador.estructuras;
+package com.y4ncx.analizador.estructuras;
 
 import java.util.ArrayList;
 import java.util.List;

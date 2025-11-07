@@ -1,4 +1,4 @@
-package com.y4cnx.analizador;
+package com.y4ncx.analizador;
 
 import com.y4ncx.analizador.estructuras.*;
 

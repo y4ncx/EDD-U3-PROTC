@@ -1,4 +1,4 @@
-package com.y4cnx.analizador.estructuras;
+package com.y4ncx.analizador.estructuras;
 
 public class Node<T> {
     public T data;
